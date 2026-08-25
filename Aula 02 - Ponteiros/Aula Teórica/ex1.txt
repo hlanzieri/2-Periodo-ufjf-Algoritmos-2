@@ -1,0 +1,14 @@
+Ponteiros e aritmetica de ponteiros. Faca esse exercıcio
+com auxılio do computador e verifique o entendimento
+das operacoes. Sejam i e j sao variaveis inteiras e p e q
+ponteiros para inteiros. Quais das seguintes expressoes de 
+atribuicao sao incorretas?
+
+a) p = &i; 
+b) *q=&j;
+c) p=&*&i;
+d) i=(*&)j;
+e) i=*&*&j;
+f) q=&p;
+g) i=(*p)++ + *q;
+h) if(p==i)i++;
